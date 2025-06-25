@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "movie": "The Shawshank Redemption",
+    "rating": "9.3",
+    "year": "1994",
+    "image": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "url": "https://www.imdb.com/title/tt0111161/"
+  },
+  {
+    "id": 2,
+    "movie": "The Godfather",
+    "rating": "9.2",
+    "year": "1972",
+    "image": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "url": "https://www.imdb.com/title/tt0068646/"
+  },
+  {
+    "id": 3,
+    "movie": "The Dark Knight",
+    "rating": "9.0",
+    "year": "2008",
+    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "url": "https://www.imdb.com/title/tt0468569/"
+  },
+  {
+    "id": 4,
+    "movie": "Pulp Fiction",
+    "rating": "8.9",
+    "year": "1994",
+    "image": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "url": "https://www.imdb.com/title/tt0110912/"
+  },
+  {
+    "id": 5,
+    "movie": "Forrest Gump",
+    "rating": "8.8",
+    "year": "1994",
+    "image": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+    "url": "https://www.imdb.com/title/tt0109830/"
+  },
+  {
+    "id": 6,
+    "movie": "Inception",
+    "rating": "8.7",
+    "year": "2010",
+    "image": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+    "url": "https://www.imdb.com/title/tt1375666/"
+  }
+]

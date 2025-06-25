@@ -1,0 +1,21 @@
+/* index.css */
+
+/* Import Fonts via <link> in index.html instead of @import in CSS */
+
+:root {
+  --font-roboto: "Roboto Slab", serif;
+  --font-raleway: "Raleway", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-roboto);
+  background-color: #080909;
+  color: #fff;
+  min-height: 100vh;
+}
