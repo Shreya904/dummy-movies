@@ -1,6 +1,3 @@
-Absolutely! Here’s a clean, professional, and **assignment-friendly `README.md`** for your React Movie Database app:
-
----
 
 ## 🎬 MovieNest
 
