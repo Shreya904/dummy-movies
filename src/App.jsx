@@ -7,8 +7,8 @@ const API_URL = "/movies.json";
 // NOTE:
 // The assignment specified using https://dummyapi.online/api/movies
 // However, the API was down or unreachable at the time of development.
-// So I used a local JSON file (public/movies.json) to simulate the API
-// and demonstrate the functionality as intended.
+// So I used a local JSON file (public/movies.json) to simulate the API and demonstrate the functionality as intended.
+// change the API_URL to the actual endpoint when available.
 
 const App = () => {
   const [movies, setMovies] = useState([]);
